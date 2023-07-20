@@ -1,0 +1,3 @@
+[submodule "shopify/arithmetic"]
+	path = shopify/arithmetic
+	url = https://github.com/lyctea/arithmetic.git
